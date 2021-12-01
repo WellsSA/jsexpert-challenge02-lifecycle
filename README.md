@@ -38,6 +38,7 @@ Sinta-se livre pra desenvolver sua solução da melhor maneira possível, e caso
 - Lembre que cada `@TODO: comment` tem uma dica sobre como resolver o problema
 - Fique atento ao comportamento esperado do método nos testes
 - Não esqueça de conferir as aulas do curso denovo para fixar mais ainda os conhecimentos
+- Caso queira executar _apenas 1 teste por vez_ para manter o terminal sempre limpo e fácil de trabalhar, você pode ir no teste ou na suite de testes que deseja focar e usar um `.only`. (ex.: `describe.only(...`, `it.only(...`)
 
 ### Arquitetura e onde trabalhar
 
