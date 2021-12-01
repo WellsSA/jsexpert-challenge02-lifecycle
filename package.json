@@ -1,0 +1,29 @@
+{
+  "name": "challenge02-lifecycle",
+  "version": "1.0.0",
+  "description": "This is a code challenge where you are supposed to implement the given functions taking into consideration the Javascript Lifecycle and other particularities of the language.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx mocha -w --timeout 20000 test/**/*.test.js"
+  },
+  "keywords": [
+    "Tests",
+    "Mocha",
+    "Chai",
+    "Javascript",
+    "Code",
+    "Lifecycle",
+    "NodeJS",
+    "unit"
+  ],
+  "author": "Wellington S. Almeida (WellsSA)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3",
+    "sinon": "^12.0.1"
+  }
+}
